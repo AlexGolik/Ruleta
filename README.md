@@ -1,3 +1,2 @@
-# Laruleta
-Ruleta que te permite rifar elementos.
-https://oscaruhp.github.io/Laruleta/
+# Ruleta
+Se creo para realizar actividad PAP y hacerla mas dinamica.
